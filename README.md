@@ -9,6 +9,7 @@ A template for launching new Django Rest Framework projects quickly. Comes with 
 - JWT Token-based auth
 - Signup/login/logout
 - Requirements.txt for managing dependencies
+- Env based settings, just copy .env.example file to .env and add your variables
 - [Swagger](https://github.com/axnsan12/drf-yasg) for API documentation
 
 ## First-time setup
